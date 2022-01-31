@@ -1,1 +1,1 @@
-Maven support with a pome.xml and approprate dependencies
+Maven support with a pom.xml and approprate dependencies
